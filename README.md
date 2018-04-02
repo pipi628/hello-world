@@ -1,2 +1,5 @@
 # hello-world
-Just test repository
+
+Hi everyone!
+
+I am Pipi. I like C++ and Linux.
